@@ -7,6 +7,7 @@ import android.view.animation.AnimationUtils
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.example.ttttttttttttttttttttttt.databinding.ActivityMainBinding
+import kotlin.system.exitProcess
 
 class MainActivity : AppCompatActivity() {
 
@@ -34,7 +35,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun onButtonExitClick(view: View) { // преобразутеся в лямбду, которую мы передаем в листенер
-        System.exit(0)
+        exitProcess(0)
     }
 
 
