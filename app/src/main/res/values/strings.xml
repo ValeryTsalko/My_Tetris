@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TTTTTTTTTTTTTTTTTTTTTTT</string>
+    <string name="high_score_default">High score: 0</string>
+    <string name="new_game">New game</string>
+    <string name="reset_score">Reset score</string>
+    <string name="exit">exit</string>
+    <string name="high_score">High score</string>
+    <string name="current_score">Current score</string>
+    <string name="btn_restart">Restart</string>
+    <string name="TETRIS">TETRIS</string>
+
+    <string name="settings">Settings</string>
+    <string name="show_high_score">showScore</string>
+</resources>
